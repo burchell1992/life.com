@@ -27,8 +27,6 @@ Syntax highlighted code block
 ```
 ![晓娟儿](/xiaojuan.jpg)
 ```
-![刘立新](/liulixin.jpg)
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
